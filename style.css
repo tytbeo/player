@@ -382,14 +382,14 @@ body
 
 #message {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 4rem;
+    font-size: 3.8rem;
     color: #f86d92;
     font-style: italic;
     font-weight: 700;
     display: flex;
     width: 100%;
     justify-content: center;
-    margin-top: 10%;
+    margin-top: 9rem;
     z-index: 10;
     position: relative;
 }
@@ -403,7 +403,7 @@ body
     left: 15px;
     z-index: 1;
     padding: 10px 20px;
-    height: 100px;
+    height: 120px;
     overflow-y: scroll;
     font-family: Helvetica, Arial;
     color: #000000d6 !important;
